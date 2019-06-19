@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-20T10:13:23+12:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project 1, 2019, Joon Lee</title><subtitle>This is a website that records the progress of Joon Lee, student of Project 1 class, on BIT, on Otago Polytechnic.</subtitle><entry><title type="html">Week 14.2 - Working on portfolio</title><link href="http://localhost:4000/jekyll/update/2019/06/13/Working-On-Portfolio.html" rel="alternate" type="text/html" title="Week 14.2 - Working on portfolio" /><published>2019-06-13T13:00:00+12:00</published><updated>2019-06-13T13:00:00+12:00</updated><id>http://localhost:4000/jekyll/update/2019/06/13/Working-On-Portfolio</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/13/Working-On-Portfolio.html">&lt;ol&gt;
+  &lt;li&gt;Joon worked on portfolio, on jekyll&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Today, I assembled most of the portfolio materials from wiki page of our project.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/June_13_1.JPG&quot; alt=&quot;June_13_1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I tried to use gitlab with jekyll, following tutorials from moodle page, but it did not work properly so I used github instead.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, my portfolio is up-to-date and I will record progress on jekyll pages from now.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;However, I haven’t figure out how to make these pages online so I need to figure that out.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/June_13_2.JPG&quot; alt=&quot;June_13_2&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Joon worked on portfolio, on jekyll</summary></entry><entry><title type="html">Week 13.1 - Adding layout materials</title><link href="http://localhost:4000/jekyll/update/2019/06/06/Adding-Layout-Materials.html" rel="alternate" type="text/html" title="Week 13.1 - Adding layout materials" /><published>2019-06-06T13:00:00+12:00</published><updated>2019-06-06T13:00:00+12:00</updated><id>http://localhost:4000/jekyll/update/2019/06/06/Adding-Layout-Materials</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/06/Adding-Layout-Materials.html">&lt;ol&gt;
+  &lt;li&gt;Joon added texts on ‘Statistics’ and ‘Goals’ and added text inputs on ‘Edit Details’. Joon will add more stuffs on ‘About this App’ next
+    &lt;ul&gt;
+      &lt;li&gt;Busy with sysadmin as well as mobile&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Today I finished adding texts and borders around them on pages, and add some text fields on Edit Details page.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/June_06_1.JPG&quot; alt=&quot;June_06_1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I tried working on ‘About this app’ page next, but busy with Systems Administration and Mobile assignment, I couldn’t do that. I will work on them later.&lt;/p&gt;</content><author><name></name></author><summary type="html">Joon added texts on ‘Statistics’ and ‘Goals’ and added text inputs on ‘Edit Details’. Joon will add more stuffs on ‘About this App’ next Busy with sysadmin as well as mobile</summary></entry><entry><title type="html">Week 12.2 - Finishing screens and navigation</title><link href="http://localhost:4000/jekyll/update/2019/05/27/Finishing-Screens-And-Navigation.html" rel="alternate" type="text/html" title="Week 12.2 - Finishing screens and navigation" /><published>2019-05-27T13:33:59+12:00</published><updated>2019-05-27T13:33:59+12:00</updated><id>http://localhost:4000/jekyll/update/2019/05/27/Finishing-Screens-And-Navigation</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/05/27/Finishing-Screens-And-Navigation.html">&lt;ol&gt;
+  &lt;li&gt;Joon finished navigation (sort of), and now will work on adding layouts on pages to be ready for functions&lt;/li&gt;
+  &lt;li&gt;Flinn will work on adding timer with new map, leaflet&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In this class, I finally finished making simple pages with all navigation, except login page.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, users can navigate through our application pages freely with bottom navigation and buttons on page if it has them.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/May_30_1.JPG&quot; alt=&quot;May_30_1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For next task, I will work on texts and boxes that do not have any functions yet but visually visible to work with.&lt;/p&gt;</content><author><name></name></author><summary type="html">Joon finished navigation (sort of), and now will work on adding layouts on pages to be ready for functions Flinn will work on adding timer with new map, leaflet</summary></entry><entry><title type="html">Week 12.1 - Busy with other subject</title><link href="http://localhost:4000/jekyll/update/2019/05/27/Busy-With-Other-Subject.html" rel="alternate" type="text/html" title="Week 12.1 - Busy with other subject" /><published>2019-05-27T13:33:59+12:00</published><updated>2019-05-27T13:33:59+12:00</updated><id>http://localhost:4000/jekyll/update/2019/05/27/Busy-With-Other-Subject</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/05/27/Busy-With-Other-Subject.html">&lt;ol&gt;
+  &lt;li&gt;Joon majorly worked on other subject’s assessment
+    &lt;ul&gt;
+      &lt;li&gt;Adon gave me an idea about documentation, adding diagram for app structure and explanation of what the app’s screens are doing.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Today, I had a lot of works on other subject so I worked on them rather than project works, because most of other works were due near future.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;However, I had a simple discusstion with Adon and He gave me an idea about documentation for our application.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I will add tree diagram for our application and describe what each screen does.&lt;/p&gt;</content><author><name></name></author><summary type="html">Joon majorly worked on other subject’s assessment Adon gave me an idea about documentation, adding diagram for app structure and explanation of what the app’s screens are doing.</summary></entry><entry><title type="html">Week 11.2 - Project maintenance</title><link href="http://localhost:4000/jekyll/update/2019/05/23/Project-Maintenance.html" rel="alternate" type="text/html" title="Week 11.2 - Project maintenance" /><published>2019-05-23T13:33:59+12:00</published><updated>2019-05-23T13:33:59+12:00</updated><id>http://localhost:4000/jekyll/update/2019/05/23/Project-Maintenance</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/05/23/Project-Maintenance.html">&lt;ol&gt;
+  &lt;li&gt;Joon modified the app to have multiple js files for each pages
+    &lt;ul&gt;
+      &lt;li&gt;Change and add icons and colours which make an app looks like the original application&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Flinn started working on using GPS map&lt;/li&gt;
+  &lt;li&gt;We had a meeting(Finish works until next Tuesday)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Today, I talked with Grayson, our project manager, and decided to make a multiple js files to seperate all the pages into indivicual file so they can be managed easily.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I struggled to work on it because I worked on the project based on codes from official React Native website, which only use one file to do all the navigation.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/May_23_2.JPG&quot; alt=&quot;May_23_2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;However, I found another &lt;a href=&quot;https://aboutreact.com/react-native-bottom-navigation/&quot;&gt;helpful website&lt;/a&gt; and work with it to fix that issue, and now our project have multiple js files.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/May_23_1.JPG&quot; alt=&quot;May_23_1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After that, we had a simple meeting to decide the task to work on, and when does that due to.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I still need to work on creating pages as well as creating documents for our application.&lt;/p&gt;</content><author><name></name></author><summary type="html">Joon modified the app to have multiple js files for each pages Change and add icons and colours which make an app looks like the original application Flinn started working on using GPS map We had a meeting(Finish works until next Tuesday)</summary></entry><entry><title type="html">Week 11.1 - Keep working on screens</title><link href="http://localhost:4000/jekyll/update/2019/05/20/Keep-Working-On-Screens.html" rel="alternate" type="text/html" title="Week 11.1 - Keep working on screens" /><published>2019-05-20T13:00:00+12:00</published><updated>2019-05-20T13:00:00+12:00</updated><id>http://localhost:4000/jekyll/update/2019/05/20/Keep-Working-On-Screens</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/05/20/Keep-Working-On-Screens.html">&lt;ol&gt;
+  &lt;li&gt;Joon added background color as well as font colors for the screens, and started working on “Settings” page by adding three buttons.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;During today’s class, Grayson, new project manager, helped me to work with React Native more clearly by using plugins on Visual Studio Code, as well as some advice on using other pages for each screens.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;However, it was not easy to work on that aspect because as I wrote on last journal, I am not 100% sure and can change the coding to add the bottom navigation on the normal codes yet so Grayson and I decided to work on this base for now.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nearly end of the class, I successfully changed background colours and font colours of bottom nav as well as all the screens. I also added three buttons on Settings screen with icons to represent what those buttons do.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/May_20_1.JPG&quot; alt=&quot;May_20_1&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Joon added background color as well as font colors for the screens, and started working on “Settings” page by adding three buttons.</summary></entry><entry><title type="html">Week 10.2 - Add bottom navigation</title><link href="http://localhost:4000/jekyll/update/2019/05/16/Add-Bottom-Navigation.html" rel="alternate" type="text/html" title="Week 10.2 - Add bottom navigation" /><published>2019-05-16T13:00:00+12:00</published><updated>2019-05-16T13:00:00+12:00</updated><id>http://localhost:4000/jekyll/update/2019/05/16/Add-Bottom-Navigation</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/05/16/Add-Bottom-Navigation.html">&lt;ol&gt;
+  &lt;li&gt;Joon finished adding bottom menu navigation.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Today, with Adon’s suggestion, I added a bottom navigation bar for our app. I just followed the instruction that can be searched on google by &lt;a href=&quot;https://callstack.github.io/react-native-paper/bottom-navigation.html&quot;&gt;react native bottom navigation bar&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/May_16_1.JPG&quot; alt=&quot;May_16_1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I will work on the screens based-on this bottom navigation bar codes because I am not sure how to work on the normal page and add this codes to work together yet.&lt;/p&gt;</content><author><name></name></author><summary type="html">Joon finished adding bottom menu navigation.</summary></entry><entry><title type="html">Week 10.1 - Another absent</title><link href="http://localhost:4000/jekyll/update/2019/05/13/Another-Absent.html" rel="alternate" type="text/html" title="Week 10.1 - Another absent" /><published>2019-05-13T13:00:00+12:00</published><updated>2019-05-13T13:00:00+12:00</updated><id>http://localhost:4000/jekyll/update/2019/05/13/Another-Absent</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/05/13/Another-Absent.html">&lt;ol&gt;
+  &lt;li&gt;Joon was sick&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I had a cold so I took a day-off. It was not horribly sick but I had severe cough and light fever which made a headache. It was not a good idea to took a day-off during this part of the semester but there was possibility to give other students a cold as well as I was not able to concentrate on the working.&lt;/p&gt;</content><author><name></name></author><summary type="html">Joon was sick</summary></entry><entry><title type="html">Week 9.2 - New project with new task</title><link href="http://localhost:4000/jekyll/update/2019/05/09/New-Project-With-New-Task.html" rel="alternate" type="text/html" title="Week 9.2 - New project with new task" /><published>2019-05-09T13:00:00+12:00</published><updated>2019-05-09T13:00:00+12:00</updated><id>http://localhost:4000/jekyll/update/2019/05/09/New-Project-With-New-Task</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/05/09/New-Project-With-New-Task.html">&lt;ol&gt;
+  &lt;li&gt;Joon assigned to build screens for the app&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Today, I assigned to work on creating all the screens of our app, without any functions.&lt;br /&gt;&lt;br /&gt;
+As I learn new language, I struggled a bit on installing React Native as well as understand how it works.&lt;br /&gt;&lt;br /&gt;
+I had to keep check below page to understand how it works and how I need to install this.&lt;br /&gt;&lt;br /&gt;
+&lt;a href=&quot;https://facebook.github.io/react-native/docs/getting-started&quot;&gt;Install instruction for React Native&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Joon assigned to build screens for the app</summary></entry><entry><title type="html">Week 9.1 - Agile project</title><link href="http://localhost:4000/jekyll/update/2019/05/06/Agile-Project.html" rel="alternate" type="text/html" title="Week 9.1 - Agile project" /><published>2019-05-06T13:00:00+12:00</published><updated>2019-05-06T13:00:00+12:00</updated><id>http://localhost:4000/jekyll/update/2019/05/06/Agile-Project</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/05/06/Agile-Project.html">&lt;ol&gt;
+  &lt;li&gt;Adon and my group had a meeting&lt;/li&gt;
+  &lt;li&gt;We decide to work on our project with totally new language called “React Native”&lt;/li&gt;
+  &lt;li&gt;We will study about React Native from now on&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Adon and my group had a meeting and the main problem about our project came up on the surface which was about uploading the app on Google App Store.&lt;br /&gt;
+It was a major problem that Flinn worked on during 2 or 3 weeks which was not solvable for some reason.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/May_6_1.JPG&quot; alt=&quot;May_6_1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As the screenshot shows, the app can be seen on the desktop condition but it can not be shown in the app store and even though make it to be seen, no one can download the app.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Therefore, during the meeting, Adon suggested us to work on the same project with another way of programming, React Native.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/May_6_2.JPG&quot; alt=&quot;May_6_2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;React Native acts like an app but actually it shows web pages that can be seen as an app on the mobile device.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;We agreed on working with React Native since we cannot figure out the problem with Google App Store, as well as the reason that React Native is a new way of mobile programming which can be a trend soon.&lt;/p&gt;</content><author><name></name></author><summary type="html">Adon and my group had a meeting We decide to work on our project with totally new language called “React Native” We will study about React Native from now on</summary></entry></feed>

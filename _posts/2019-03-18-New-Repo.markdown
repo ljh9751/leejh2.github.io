@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Week 4.2 - New repo"
+date:   2019-03-18 13:00:00 +1200
+categories: jekyll update
+---
+1. Joon cannot work out the merge, so Joon just added his work to the project that has merged contents from Flinn
+2. Albert created new repo and I uploaded fully copied version from original repo
+
+So today, I had to do some works again due to merge failing, with forked repo. After Albert discussed about this issue with Adon, Flinn and I will use new copied repo from original application repo, with two separate branches.
+
+![March_18_1](/assets/img/March_18_1.JPG)
+
+Other then that, nothing special happened.
