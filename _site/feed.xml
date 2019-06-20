@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-20T10:13:23+12:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project 1, 2019, Joon Lee</title><subtitle>This is a website that records the progress of Joon Lee, student of Project 1 class, on BIT, on Otago Polytechnic.</subtitle><entry><title type="html">Week 14.2 - Working on portfolio</title><link href="http://localhost:4000/jekyll/update/2019/06/13/Working-On-Portfolio.html" rel="alternate" type="text/html" title="Week 14.2 - Working on portfolio" /><published>2019-06-13T13:00:00+12:00</published><updated>2019-06-13T13:00:00+12:00</updated><id>http://localhost:4000/jekyll/update/2019/06/13/Working-On-Portfolio</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/13/Working-On-Portfolio.html">&lt;ol&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-20T16:20:10+12:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project 1, 2019, Joon Lee</title><subtitle>This is a website that records the progress of Joon Lee, student of Project 1 class, on BIT, on Otago Polytechnic.</subtitle><entry><title type="html">Week 16 - Reflection</title><link href="http://localhost:4000/jekyll/update/2019/06/20/Reflection.html" rel="alternate" type="text/html" title="Week 16 - Reflection" /><published>2019-06-20T13:00:00+12:00</published><updated>2019-06-20T13:00:00+12:00</updated><id>http://localhost:4000/jekyll/update/2019/06/20/Reflection</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/20/Reflection.html">&lt;p&gt;Today is the last day of Project 1, and I want to reflect on what happened during this semester, on my Project 1 class.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;From the beginning, I couldn’t decide which project group was good for me, because I had two groups that I want to be in.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;First pick from me was actually operations and security. During my class on security and Linux, I found myself that the contents were not that hard, compare to Programming 4 and such. So I naturally tried to be in a group that do the familiar and “seems to be easy” materials.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;However, I was also considering to be in mobile project because I was just interested in mobile development. I, myself, uses a lot of application on my android phone and I think the market for mobile application is getting larger and larger. In terms of that fact, it would be really good choice to work on mobile project so I can learn about new and “popular” material on current days.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;However, I decided to join in mobile project group because there were no place on operations and security left. I was ok with either group so actually it was really good that I did not have to choose specific project.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;After that, there was another choice between working on the application that someone else worked on first, or working on the fresh application. This choice was somehow easy decision for me because I wanted to continue the project that someone else worked on. I thought, and still think, it was a good choice because in real life, I will probably working on the project that someone else wrote it long time ago. I should be able to work around this kind of circumstance to be able to get a job and work well.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Therefore, the project that I’ve given was “Walking with leon”, the application about exercise by walking. The aim of the application was to record user’s route through the walking session, record the distance and calculate how much calories the user used etc. It was straight forward and looked like a lot of works were done&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;But during half of the semester, all I could do was changing layouts and fixing some buttons issue. All the codes were not commented properly or not commented at all. My low level of knowledge on mobile developing was also an issue. As a learner of mobile development, it was actually great opportunity and I gradually improved my skills by using knowledge from mobile development class on project.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The problem occurred on the middle of the semester. Flinn, my group member, tried to push our app on the Google Play Store and it was not working properly. He struggled several days on it and it was necessary task to be done as quick as possible.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;At that point, we discussed the issue on the meeting with Adon and everything changed. Adon suggested to make an application from the scratch, which is not really cause we have all the screens and enough information, with using a new language for us, React Native.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Today is the last day of Project 1, and I want to reflect on what happened during this semester, on my Project 1 class.</summary></entry><entry><title type="html">Week 14.2 - Working on portfolio</title><link href="http://localhost:4000/jekyll/update/2019/06/13/Working-On-Portfolio.html" rel="alternate" type="text/html" title="Week 14.2 - Working on portfolio" /><published>2019-06-13T13:00:00+12:00</published><updated>2019-06-13T13:00:00+12:00</updated><id>http://localhost:4000/jekyll/update/2019/06/13/Working-On-Portfolio</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/13/Working-On-Portfolio.html">&lt;ol&gt;
   &lt;li&gt;Joon worked on portfolio, on jekyll&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -98,23 +116,4 @@
 &lt;p&gt;Today, I assigned to work on creating all the screens of our app, without any functions.&lt;br /&gt;&lt;br /&gt;
 As I learn new language, I struggled a bit on installing React Native as well as understand how it works.&lt;br /&gt;&lt;br /&gt;
 I had to keep check below page to understand how it works and how I need to install this.&lt;br /&gt;&lt;br /&gt;
-&lt;a href=&quot;https://facebook.github.io/react-native/docs/getting-started&quot;&gt;Install instruction for React Native&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Joon assigned to build screens for the app</summary></entry><entry><title type="html">Week 9.1 - Agile project</title><link href="http://localhost:4000/jekyll/update/2019/05/06/Agile-Project.html" rel="alternate" type="text/html" title="Week 9.1 - Agile project" /><published>2019-05-06T13:00:00+12:00</published><updated>2019-05-06T13:00:00+12:00</updated><id>http://localhost:4000/jekyll/update/2019/05/06/Agile-Project</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/05/06/Agile-Project.html">&lt;ol&gt;
-  &lt;li&gt;Adon and my group had a meeting&lt;/li&gt;
-  &lt;li&gt;We decide to work on our project with totally new language called “React Native”&lt;/li&gt;
-  &lt;li&gt;We will study about React Native from now on&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Adon and my group had a meeting and the main problem about our project came up on the surface which was about uploading the app on Google App Store.&lt;br /&gt;
-It was a major problem that Flinn worked on during 2 or 3 weeks which was not solvable for some reason.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/May_6_1.JPG&quot; alt=&quot;May_6_1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;As the screenshot shows, the app can be seen on the desktop condition but it can not be shown in the app store and even though make it to be seen, no one can download the app.&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Therefore, during the meeting, Adon suggested us to work on the same project with another way of programming, React Native.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/May_6_2.JPG&quot; alt=&quot;May_6_2&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;React Native acts like an app but actually it shows web pages that can be seen as an app on the mobile device.&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;We agreed on working with React Native since we cannot figure out the problem with Google App Store, as well as the reason that React Native is a new way of mobile programming which can be a trend soon.&lt;/p&gt;</content><author><name></name></author><summary type="html">Adon and my group had a meeting We decide to work on our project with totally new language called “React Native” We will study about React Native from now on</summary></entry></feed>
+&lt;a href=&quot;https://facebook.github.io/react-native/docs/getting-started&quot;&gt;Install instruction for React Native&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Joon assigned to build screens for the app</summary></entry></feed>
