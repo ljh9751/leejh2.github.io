@@ -1,8 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-20T16:20:10+12:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project 1, 2019, Joon Lee</title><subtitle>This is a website that records the progress of Joon Lee, student of Project 1 class, on BIT, on Otago Polytechnic.</subtitle><entry><title type="html">Week 16 - Reflection</title><link href="http://localhost:4000/jekyll/update/2019/06/20/Reflection.html" rel="alternate" type="text/html" title="Week 16 - Reflection" /><published>2019-06-20T13:00:00+12:00</published><updated>2019-06-20T13:00:00+12:00</updated><id>http://localhost:4000/jekyll/update/2019/06/20/Reflection</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/20/Reflection.html">&lt;p&gt;Today is the last day of Project 1, and I want to reflect on what happened during this semester, on my Project 1 class.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-20T20:40:22+12:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Project 1, 2019, Joon Lee</title><subtitle>This is a website that records the progress of Joon Lee, student of Project 1 class, on BIT, on Otago Polytechnic.</subtitle><entry><title type="html">Week 16 - My work documentation</title><link href="http://localhost:4000/jekyll/update/2019/06/20/My-Work-Documention.html" rel="alternate" type="text/html" title="Week 16 - My work documentation" /><published>2019-06-20T13:00:00+12:00</published><updated>2019-06-20T13:00:00+12:00</updated><id>http://localhost:4000/jekyll/update/2019/06/20/My-Work-Documention</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/20/My-Work-Documention.html">&lt;h3 id=&quot;taking-steps-screens&quot;&gt;Taking Steps (Screens)&lt;/h3&gt;
+&lt;p&gt;Taking Steps is an application dedicated to calculate and measure time, distance and calories burnt from user, by walking. This documentation is mainly based on how the screens are realated and be able to navigate around.&lt;/p&gt;
 
-&lt;p&gt;From the beginning, I couldn’t decide which project group was good for me, because I had two groups that I want to be in.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;screen-structure&quot;&gt;Screen structure&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/TakingSteps_Diagram.jpg&quot; alt=&quot;TakingSteps_Diagram&quot; /&gt;&lt;br /&gt;
+This is basic structure of Taking Steps. Please read below for detailed information about individual screens.&lt;/p&gt;
 
-&lt;p&gt;First pick from me was actually operations and security. During my class on security and Linux, I found myself that the contents were not that hard, compare to Programming 4 and such. So I naturally tried to be in a group that do the familiar and “seems to be easy” materials.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;individual-screens-and-components&quot;&gt;Individual screens and components&lt;/h2&gt;
+&lt;h1 id=&quot;bottom-navigation&quot;&gt;Bottom navigation&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/Bottom_Navigation.JPG&quot; alt=&quot;Bottom_Navigation&quot; width=&quot;400&quot; /&gt;&lt;br /&gt;
+This is a bottom navigation which placed on every screen’s bottom, for navigation.&lt;br /&gt;
+User can move around screens by touching (clicking) the icon on this navigation.&lt;/p&gt;
+
+&lt;h1 id=&quot;statistics&quot;&gt;Statistics&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/Statistics_Page.jpg&quot; alt=&quot;Statistics_Page&quot; width=&quot;200&quot; /&gt;&lt;br /&gt;
+This screen shows how much user used calories and carbs, how much user burnt his/her fat, and how far the user walked weekly.&lt;/p&gt;
+
+&lt;h1 id=&quot;walk&quot;&gt;Walk&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/Walk_Page.jpg&quot; alt=&quot;Walk_Page&quot; width=&quot;200&quot; /&gt;&lt;br /&gt;
+This screen shows the surrounding area of user by using Google maps, and show the direction and route user took, during walking session.&lt;/p&gt;
+
+&lt;h1 id=&quot;goal&quot;&gt;Goal&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/Goal_Page.jpg&quot; alt=&quot;Goal_Page&quot; width=&quot;200&quot; /&gt;&lt;br /&gt;
+This screen will show the goals that user input by himself/herself, on daily, weekly, monthly, and yearly.&lt;/p&gt;
+
+&lt;h1 id=&quot;settings&quot;&gt;Settings&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/Settings_Page.jpg&quot; alt=&quot;Settings_Page&quot; width=&quot;200&quot; /&gt;&lt;br /&gt;
+This screen shows all setting related page as well as “About this App’ page by having three buttons to navigate.&lt;br /&gt;
+&lt;img src=&quot;/assets/img/Edit_Details_Page.jpg&quot; alt=&quot;Edit_Details_Page&quot; width=&quot;200&quot; /&gt;
+&lt;img src=&quot;/assets/img/About_Page.jpg&quot; alt=&quot;About_Page&quot; width=&quot;200&quot; /&gt;
+&lt;img src=&quot;/assets/img/Clear_Data.jpg&quot; alt=&quot;Clear_Data&quot; width=&quot;200&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;“Edit Details” button leads the user to screen that will modify user details, by reading and recording user input.&lt;/li&gt;
+  &lt;li&gt;“About this App” button leads the user to screen that will show simple information about this app, Taking Steps, as well as all the staffs simple information&lt;/li&gt;
+  &lt;li&gt;“Clear Data” button leads the user to screen that will show the abstracted data about user and a button for deleting them.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Taking Steps (Screens) Taking Steps is an application dedicated to calculate and measure time, distance and calories burnt from user, by walking. This documentation is mainly based on how the screens are realated and be able to navigate around.</summary></entry><entry><title type="html">Week 16 - Reflection</title><link href="http://localhost:4000/jekyll/update/2019/06/20/Reflection.html" rel="alternate" type="text/html" title="Week 16 - Reflection" /><published>2019-06-20T13:00:00+12:00</published><updated>2019-06-20T13:00:00+12:00</updated><id>http://localhost:4000/jekyll/update/2019/06/20/Reflection</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/20/Reflection.html">&lt;p&gt;Today is the last day of Project 1, and I want to reflect on what happened during this semester, on my Project 1 class.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;From the beginning, I couldn’t decide which project group was good for me, because I had two groups that I want to be in. First pick from me was actually operations and security. During my class on security and Linux, I found myself that the contents were not that hard, compare to Programming 4 and such. So I naturally tried to be in a group that do the familiar and “seems to be easy” materials.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;However, I was also considering to be in mobile project because I was just interested in mobile development. I, myself, uses a lot of application on my android phone and I think the market for mobile application is getting larger and larger. In terms of that fact, it would be really good choice to work on mobile project so I can learn about new and “popular” material on current days.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -12,11 +45,16 @@
 
 &lt;p&gt;Therefore, the project that I’ve given was “Walking with leon”, the application about exercise by walking. The aim of the application was to record user’s route through the walking session, record the distance and calculate how much calories the user used etc. It was straight forward and looked like a lot of works were done&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;But during half of the semester, all I could do was changing layouts and fixing some buttons issue. All the codes were not commented properly or not commented at all. My low level of knowledge on mobile developing was also an issue. As a learner of mobile development, it was actually great opportunity and I gradually improved my skills by using knowledge from mobile development class on project.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;But during half of the semester, all I could do was changing layouts and fixing some buttons issue. All the codes were not commented properly or not commented at all. My low level of knowledge on mobile developing was also an issue. As a learner of mobile development, it was actually great opportunity and I gradually improved my skills by using knowledge from mobile development class on project. The problem occurred on the middle of the semester. Flinn, my group member, tried to push our app on the Google Play Store and it was not working properly. He struggled several days on it and it was necessary task to be done as quick as possible.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;The problem occurred on the middle of the semester. Flinn, my group member, tried to push our app on the Google Play Store and it was not working properly. He struggled several days on it and it was necessary task to be done as quick as possible.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;At that point, we discussed the issue on the meeting with Adon and everything changed. Adon suggested to make an application from the scratch, which is not really cause we have all the screens and enough information, with using a new language for us, React Native. It was a whole new language that I never heard of, which was actually not “that” foreign. It uses javascript and I worked on these kind of language before. Also there were a lot of tutorials on how to use React Native and it was really helpful.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;At that point, we discussed the issue on the meeting with Adon and everything changed. Adon suggested to make an application from the scratch, which is not really cause we have all the screens and enough information, with using a new language for us, React Native.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Today is the last day of Project 1, and I want to reflect on what happened during this semester, on my Project 1 class.</summary></entry><entry><title type="html">Week 14.2 - Working on portfolio</title><link href="http://localhost:4000/jekyll/update/2019/06/13/Working-On-Portfolio.html" rel="alternate" type="text/html" title="Week 14.2 - Working on portfolio" /><published>2019-06-13T13:00:00+12:00</published><updated>2019-06-13T13:00:00+12:00</updated><id>http://localhost:4000/jekyll/update/2019/06/13/Working-On-Portfolio</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/13/Working-On-Portfolio.html">&lt;ol&gt;
+&lt;p&gt;Recently, I am still trying to understand and applying what I learned from those tutorial to work properly on our app, but it gives me so many great experiences. The project is far from completion but I feel like I learned how to adapt to the environment where the whole project moves to another language. I don’t know when but this kind of experiences will be a great help for me in real job environment.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Overall, I already talked about my feelings on various posts so I just wrote about general feelings during Project 1 on this post.&lt;br /&gt;
+I had a lot of bad and good moment during classes and I feel like I learned so much about working in stress condition as well as working together with someone else, on someone’s command and working with customer who wants me to do something. It was quite fresh experience as I only worked on assignments not “work” until I took Software Engineering last semester, which I struggled a lot to adapt. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Project 1 was actually easier for me to work with because of last semester’s experience but still not easy. But it helped me to work with teams, using git labs and write documentaion like this post so I am positivie that I am improved and will improve my skills as a IT student on next semester.&lt;/p&gt;</content><author><name></name></author><summary type="html">Today is the last day of Project 1, and I want to reflect on what happened during this semester, on my Project 1 class.</summary></entry><entry><title type="html">Week 14.2 - Working on portfolio</title><link href="http://localhost:4000/jekyll/update/2019/06/13/Working-On-Portfolio.html" rel="alternate" type="text/html" title="Week 14.2 - Working on portfolio" /><published>2019-06-13T13:00:00+12:00</published><updated>2019-06-13T13:00:00+12:00</updated><id>http://localhost:4000/jekyll/update/2019/06/13/Working-On-Portfolio</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/06/13/Working-On-Portfolio.html">&lt;ol&gt;
   &lt;li&gt;Joon worked on portfolio, on jekyll&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -42,18 +80,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/June_06_1.JPG&quot; alt=&quot;June_06_1&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I tried working on ‘About this app’ page next, but busy with Systems Administration and Mobile assignment, I couldn’t do that. I will work on them later.&lt;/p&gt;</content><author><name></name></author><summary type="html">Joon added texts on ‘Statistics’ and ‘Goals’ and added text inputs on ‘Edit Details’. Joon will add more stuffs on ‘About this App’ next Busy with sysadmin as well as mobile</summary></entry><entry><title type="html">Week 12.2 - Finishing screens and navigation</title><link href="http://localhost:4000/jekyll/update/2019/05/27/Finishing-Screens-And-Navigation.html" rel="alternate" type="text/html" title="Week 12.2 - Finishing screens and navigation" /><published>2019-05-27T13:33:59+12:00</published><updated>2019-05-27T13:33:59+12:00</updated><id>http://localhost:4000/jekyll/update/2019/05/27/Finishing-Screens-And-Navigation</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/05/27/Finishing-Screens-And-Navigation.html">&lt;ol&gt;
-  &lt;li&gt;Joon finished navigation (sort of), and now will work on adding layouts on pages to be ready for functions&lt;/li&gt;
-  &lt;li&gt;Flinn will work on adding timer with new map, leaflet&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;In this class, I finally finished making simple pages with all navigation, except login page.&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Now, users can navigate through our application pages freely with bottom navigation and buttons on page if it has them.&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/May_30_1.JPG&quot; alt=&quot;May_30_1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;For next task, I will work on texts and boxes that do not have any functions yet but visually visible to work with.&lt;/p&gt;</content><author><name></name></author><summary type="html">Joon finished navigation (sort of), and now will work on adding layouts on pages to be ready for functions Flinn will work on adding timer with new map, leaflet</summary></entry><entry><title type="html">Week 12.1 - Busy with other subject</title><link href="http://localhost:4000/jekyll/update/2019/05/27/Busy-With-Other-Subject.html" rel="alternate" type="text/html" title="Week 12.1 - Busy with other subject" /><published>2019-05-27T13:33:59+12:00</published><updated>2019-05-27T13:33:59+12:00</updated><id>http://localhost:4000/jekyll/update/2019/05/27/Busy-With-Other-Subject</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/05/27/Busy-With-Other-Subject.html">&lt;ol&gt;
+&lt;p&gt;I tried working on ‘About this app’ page next, but busy with Systems Administration and Mobile assignment, I couldn’t do that. I will work on them later.&lt;/p&gt;</content><author><name></name></author><summary type="html">Joon added texts on ‘Statistics’ and ‘Goals’ and added text inputs on ‘Edit Details’. Joon will add more stuffs on ‘About this App’ next Busy with sysadmin as well as mobile</summary></entry><entry><title type="html">Week 12.1 - Busy with other subject</title><link href="http://localhost:4000/jekyll/update/2019/05/27/Busy-With-Other-Subject.html" rel="alternate" type="text/html" title="Week 12.1 - Busy with other subject" /><published>2019-05-27T13:33:59+12:00</published><updated>2019-05-27T13:33:59+12:00</updated><id>http://localhost:4000/jekyll/update/2019/05/27/Busy-With-Other-Subject</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/05/27/Busy-With-Other-Subject.html">&lt;ol&gt;
   &lt;li&gt;Joon majorly worked on other subject’s assessment
     &lt;ul&gt;
       &lt;li&gt;Adon gave me an idea about documentation, adding diagram for app structure and explanation of what the app’s screens are doing.&lt;/li&gt;
@@ -65,7 +92,18 @@
 
 &lt;p&gt;However, I had a simple discusstion with Adon and He gave me an idea about documentation for our application.&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;I will add tree diagram for our application and describe what each screen does.&lt;/p&gt;</content><author><name></name></author><summary type="html">Joon majorly worked on other subject’s assessment Adon gave me an idea about documentation, adding diagram for app structure and explanation of what the app’s screens are doing.</summary></entry><entry><title type="html">Week 11.2 - Project maintenance</title><link href="http://localhost:4000/jekyll/update/2019/05/23/Project-Maintenance.html" rel="alternate" type="text/html" title="Week 11.2 - Project maintenance" /><published>2019-05-23T13:33:59+12:00</published><updated>2019-05-23T13:33:59+12:00</updated><id>http://localhost:4000/jekyll/update/2019/05/23/Project-Maintenance</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/05/23/Project-Maintenance.html">&lt;ol&gt;
+&lt;p&gt;I will add tree diagram for our application and describe what each screen does.&lt;/p&gt;</content><author><name></name></author><summary type="html">Joon majorly worked on other subject’s assessment Adon gave me an idea about documentation, adding diagram for app structure and explanation of what the app’s screens are doing.</summary></entry><entry><title type="html">Week 12.2 - Finishing screens and navigation</title><link href="http://localhost:4000/jekyll/update/2019/05/27/Finishing-Screens-And-Navigation.html" rel="alternate" type="text/html" title="Week 12.2 - Finishing screens and navigation" /><published>2019-05-27T13:33:59+12:00</published><updated>2019-05-27T13:33:59+12:00</updated><id>http://localhost:4000/jekyll/update/2019/05/27/Finishing-Screens-And-Navigation</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/05/27/Finishing-Screens-And-Navigation.html">&lt;ol&gt;
+  &lt;li&gt;Joon finished navigation (sort of), and now will work on adding layouts on pages to be ready for functions&lt;/li&gt;
+  &lt;li&gt;Flinn will work on adding timer with new map, leaflet&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In this class, I finally finished making simple pages with all navigation, except login page.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, users can navigate through our application pages freely with bottom navigation and buttons on page if it has them.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/May_30_1.JPG&quot; alt=&quot;May_30_1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For next task, I will work on texts and boxes that do not have any functions yet but visually visible to work with.&lt;/p&gt;</content><author><name></name></author><summary type="html">Joon finished navigation (sort of), and now will work on adding layouts on pages to be ready for functions Flinn will work on adding timer with new map, leaflet</summary></entry><entry><title type="html">Week 11.2 - Project maintenance</title><link href="http://localhost:4000/jekyll/update/2019/05/23/Project-Maintenance.html" rel="alternate" type="text/html" title="Week 11.2 - Project maintenance" /><published>2019-05-23T13:33:59+12:00</published><updated>2019-05-23T13:33:59+12:00</updated><id>http://localhost:4000/jekyll/update/2019/05/23/Project-Maintenance</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/05/23/Project-Maintenance.html">&lt;ol&gt;
   &lt;li&gt;Joon modified the app to have multiple js files for each pages
     &lt;ul&gt;
       &lt;li&gt;Change and add icons and colours which make an app looks like the original application&lt;/li&gt;
@@ -109,11 +147,4 @@
   &lt;li&gt;Joon was sick&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;I had a cold so I took a day-off. It was not horribly sick but I had severe cough and light fever which made a headache. It was not a good idea to took a day-off during this part of the semester but there was possibility to give other students a cold as well as I was not able to concentrate on the working.&lt;/p&gt;</content><author><name></name></author><summary type="html">Joon was sick</summary></entry><entry><title type="html">Week 9.2 - New project with new task</title><link href="http://localhost:4000/jekyll/update/2019/05/09/New-Project-With-New-Task.html" rel="alternate" type="text/html" title="Week 9.2 - New project with new task" /><published>2019-05-09T13:00:00+12:00</published><updated>2019-05-09T13:00:00+12:00</updated><id>http://localhost:4000/jekyll/update/2019/05/09/New-Project-With-New-Task</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/05/09/New-Project-With-New-Task.html">&lt;ol&gt;
-  &lt;li&gt;Joon assigned to build screens for the app&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Today, I assigned to work on creating all the screens of our app, without any functions.&lt;br /&gt;&lt;br /&gt;
-As I learn new language, I struggled a bit on installing React Native as well as understand how it works.&lt;br /&gt;&lt;br /&gt;
-I had to keep check below page to understand how it works and how I need to install this.&lt;br /&gt;&lt;br /&gt;
-&lt;a href=&quot;https://facebook.github.io/react-native/docs/getting-started&quot;&gt;Install instruction for React Native&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Joon assigned to build screens for the app</summary></entry></feed>
+&lt;p&gt;I had a cold so I took a day-off. It was not horribly sick but I had severe cough and light fever which made a headache. It was not a good idea to took a day-off during this part of the semester but there was possibility to give other students a cold as well as I was not able to concentrate on the working.&lt;/p&gt;</content><author><name></name></author><summary type="html">Joon was sick</summary></entry></feed>
