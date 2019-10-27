@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Week 8.2 - Absent"
-date:   2019-05-02 13:00:00 +1200
-categories: jekyll update
----
-1. Joon was absent due to doctor's appointment
-
-Since my GP can have an appointment during class time, I had no choice but have an appointment.
