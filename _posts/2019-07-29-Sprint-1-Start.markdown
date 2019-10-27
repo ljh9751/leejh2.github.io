@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 1.1 - Project 2 start"
+title:  "Week 1.1 - Sprint 1 start"
 date:   2019-07-29 13:33:59 +1200
 categories: jekyll update
 ---
