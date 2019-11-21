@@ -16,8 +16,8 @@ My group will use the Realtime Database feature of Google Firebase to store any 
 
 After all settings done, I followed the tutorial from website above and tested it. To start with, I created a page for adding data to database and tested it.
 
-![AddITem page](/assets/img/Week_2_2_3.JPG)
-![AddITem page after pressing button](/assets/img/Week_2_2_4.JPG)
+![AddItem page](/assets/img/Week_2_2_3.JPG)
+![AddItem page after pressing button](/assets/img/Week_2_2_4.JPG)
 
 I checked our database and I was able to see my 'Test' text stored on our database, with earlier tests.
 

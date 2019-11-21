@@ -14,4 +14,6 @@ However, it was not working as I want it to work. The main problem is that step 
 So basically, the step goes up few seconds after user moved.
 
 At first, I thought the step counter doesn't work at all but I saw step counter goes up with delays.
-I have no idea why it does this and how to solve this.
+I have no idea why it does this and how to solve this at this moment.
+
+![Walking page](/assets/img/Week_5_2_1.jpg)
