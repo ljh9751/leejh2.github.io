@@ -11,13 +11,13 @@ I wasn't really sure what Clear Data page do but since it was there on original 
 So to start with, I created simple page with a button to wipe out user's detail, since I though it was what 'data' from Clear Data means.
 I made all data related to user's detail into null so basically it is empty.
 
-![Clear Data page](/assets/img/Week_4_1_1.png){: width="300" height="500"}
+![Clear Data page](/assets/img/Week_4_1_1.png){: width="300" height="600"}
 
 ![ShowAlertDialog function](/assets/img/Week_4_1_2.png)
 
 I also added two alerts so user need to be sure to clear their user details.
 
-![Clear Data page with first alert](/assets/img/Week_4_1_3.png){: width="300" height="500"} ![Clear Data page with second alert](/assets/img/Week_4_1_4.png){: width="300" height="500"}
+![Clear Data page with first alert](/assets/img/Week_4_1_3.png){: width="300" height="600"} ![Clear Data page with second alert](/assets/img/Week_4_1_4.png){: width="300" height="600"}
 
 The result was not good.
 

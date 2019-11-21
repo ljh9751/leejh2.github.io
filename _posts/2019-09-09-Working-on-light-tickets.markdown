@@ -12,7 +12,7 @@ So naturally I worked on About page first, since it was just adding some informa
 
 It was so easy because I've working with React Native almost 8 months and I am so used to create a page.
 
-![About Us page](/assets/img/Week_8_1_1.jpg){: width="300" height="500"}
+![About Us page](/assets/img/Week_8_1_1.jpg){: width="300" height="600"}
 
 After finishing that, I tried to work on next ticket and succeed on adding current activity data of user.
 
