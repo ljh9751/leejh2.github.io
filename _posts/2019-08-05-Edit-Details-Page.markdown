@@ -17,11 +17,11 @@ Also I changed 'onPress' function of TouchableHightlight at the bottom of the pa
 
 After that, I tested it on actual Edit Details page.
 
-![EditDetails page before](/assets/img/Week_3_1_4.jpg)
+![EditDetails page before](/assets/img/Week_3_1_4.jpg){: width="100" height="300"}
 
-![EditDetails page after](/assets/img/Week_3_1_5.jpg)
+![EditDetails page after](/assets/img/Week_3_1_5.jpg){: width="100" height="300"}
 
-![EditDetails page alert](/assets/img/Week_3_1_6.jpg)
+![EditDetails page alert](/assets/img/Week_3_1_6.jpg){: width="100" height="300"}
 
 Test was successful. I could see the values are updated on our database.
 
