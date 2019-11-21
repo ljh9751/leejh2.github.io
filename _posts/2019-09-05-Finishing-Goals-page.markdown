@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 7.2 - Working on Goals page"
+title:  "Week 7.2 - Finishing Goals page"
 date:   2019-09-05 13:33:59 +1200
 categories: jekyll update
 ---
