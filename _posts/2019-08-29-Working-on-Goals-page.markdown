@@ -19,4 +19,4 @@ This ticket is for new sprint so I can work in my own pace, not like last time.
 
 I just added some texts on Goals page for now.
 
-![Goals page](/assets/img/Week_6_2_2.jpg){: width="250" height="350"}
+![Goals page](/assets/img/Week_6_2_2.jpg){: width="300" height="450"}
