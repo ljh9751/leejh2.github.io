@@ -27,3 +27,7 @@ I learned that I need to think about my work more in depth as well. Some works t
 For next time, when I work with other people like this, I should think more carefully about my work, rather than just do it first and figure out it was not important at all.
 
 Other then those important lessons, it was really hard but fun class that I will remember for long time.
+
+---
+
+You can download our app at [here](https://play.google.com/store/apps/details?id=com.takingsteps&fbclid=IwAR07b82ot_zh4Q64_qi4BliLHRRPe18p3K5VTpdy3kW8AoJslzJWRPMj960)
