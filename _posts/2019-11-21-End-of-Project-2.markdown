@@ -13,7 +13,9 @@ I created a logo for our app using public domain image, tweaked by photoshop.
 ![new logo for Taking Steps](/assets/img/Week_16_1_1.png){: width="300" height="300"}
 
 Only thing we have left is waiting for our app to appear on the store and project debrief on this Friday.
+
 ---
+
 It was really wholesome semester for me because I can see I improved a lot on using React Native and Google Firebase Realtime Database.
 I feel like I learned many knowledges and used it properly during this class and feel happy that Flinn and I were able to finish the app in time.
 Still there are many features need to be added but we did the best we can do at this point, and if I have a chance after the graduation, I wish to do more work on our app.
